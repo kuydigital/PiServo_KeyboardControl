@@ -1,8 +1,6 @@
 # PiServo_KeyboardControl
-Python code to control 2 servos using keyboard arrow keys
+Python code to control 2 servos (pan & tilt) using arrow keys on your keyboard while using the Waveshare Servo Driver HAT (PCA9685) for Raspberry Pi, 16-Channel, 12-bit, I2C
 
-This is the module hat that I'm using:
+Product link: https://www.waveshare.com/servo-driver-hat.htm
 
-Waveshare Servo Driver HAT (PCA9685) for Raspberry Pi, 16-Channel, 12-bit, I2C
-
-https://www.waveshare.com/servo-driver-hat.htm
+Tested on a Raspberry Pi 3 B+
